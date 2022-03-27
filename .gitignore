@@ -109,6 +109,7 @@ GTAGS
 # id-utils files
 ID
 
+*.bak
 *.orig
 *~
 \#*#
